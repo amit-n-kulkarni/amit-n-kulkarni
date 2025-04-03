@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I am Amit 👋
 
 <!--
 **amit-n-kulkarni/amit-n-kulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
